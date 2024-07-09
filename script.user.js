@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Vimeo Set Quality to 1080p
 // @namespace    http://tampermonkey.net/
+// @author       A2L
 // @version      0.3
 // @description  Set Vimeo video quality to 1080p and close the menu
 // @match        https://vimeo.com/*
