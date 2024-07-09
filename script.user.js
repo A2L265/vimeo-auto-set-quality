@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Vimeo Set Quality to 1080p
-// @namespace    http://tampermonkey.net/
+// @namespace    https://greasyfork.org/en/users/1330666
 // @author       A2L
 // @version      0.3
 // @description  Set Vimeo video quality to 1080p and close the menu
@@ -8,6 +8,7 @@
 // @match        https://player.vimeo.com/*
 // @grant        none
 // @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
+// @icon         https://vimeo.com/favicon.ico
 // ==/UserScript==
 
 (function() {
