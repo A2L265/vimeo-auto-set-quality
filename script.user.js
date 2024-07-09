@@ -3,7 +3,7 @@
 // @namespace    https://greasyfork.org/en/users/1330666
 // @author       A2L
 // @version      0.3
-// @description  Set Vimeo video quality to 1080p and close the menu
+// @description  Set Vimeo video quality to 1080p automatically and close the menu
 // @match        https://vimeo.com/*
 // @match        https://player.vimeo.com/*
 // @grant        none
