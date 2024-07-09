@@ -7,6 +7,7 @@
 // @match        https://vimeo.com/*
 // @match        https://player.vimeo.com/*
 // @grant        none
+// @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // ==/UserScript==
 
 (function() {
