@@ -1,6 +1,12 @@
 # vimeo-auto-set-quality
 Tampermonkey script to set video quality automatically to 1080p for vimeo.com
 
+# Installation
+
+Install from https://greasyfork.org/en/scripts/500088-vimeo-set-quality-to-1080p
+
+or
+
 1. Click on the Tampermonkey icon in your browser's toolbar and select "Create a new script".
 
 2. Delete any existing code in the editor.
